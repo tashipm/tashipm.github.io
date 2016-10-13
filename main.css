@@ -6,7 +6,7 @@ html, body {
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 48px;
 }
 
 p {
@@ -14,13 +14,13 @@ p {
   min-width: 500px;
 }
 
-h2 {
+h2 {                                         
   text-align: center;
   font-size: 2.6rem;
 }
 
 div {
-  padding-right: 30px;
+  padding-right: 130px;
   height: 100%;
   width: 100%;
 }
